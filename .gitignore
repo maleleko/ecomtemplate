@@ -37,4 +37,4 @@ yarn-error.log*
 next-env.d.ts
 
 #sanity
-./sanity/env.js
+./sanity/lib/env.js
